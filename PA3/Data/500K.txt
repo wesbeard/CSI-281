@@ -1,0 +1,184 @@
+RANDOM DATA, 100, 10K, 500K
+==========================
+
+Small array test:
+Bubble Sort:
+Elapsed time: 0.0000237000
+
+Insertion Sort:
+Elapsed time: 0.0000073000
+
+Selection Sort:
+Elapsed time: 0.0000115000
+
+Shell Sort:
+Elapsed time: 0.0000123000
+
+Merge Sort:
+Elapsed time: 0.0000769000
+
+Quick Sort:
+Elapsed time: 0.0000070000
+
+
+Medium array test:
+Bubble Sort:
+Elapsed time: 0.2999055000
+
+Insertion Sort:
+Elapsed time: 0.0525832000
+
+Selection Sort:
+Elapsed time: 0.0886637000
+
+Shell Sort:
+Elapsed time: 0.1281087000
+
+Merge Sort:
+Elapsed time: 0.0079261000
+
+Quick Sort:
+Elapsed time: 0.0010223000
+
+
+Large array test:
+Bubble Sort:
+Elapsed time: 789.9843792000
+
+Insertion Sort:
+Elapsed time: 120.6891151000
+
+Selection Sort:
+Elapsed time: 204.0476371000
+
+Shell Sort:
+Elapsed time: 381.8031382000
+
+Merge Sort:
+Elapsed time: 1.4121511000
+
+Quick Sort:
+Elapsed time: 0.0610542000
+
+BEST CASE DATA, 100, 10K, 500K
+==============================
+
+Small array test:
+Bubble Sort:
+Elapsed time: 0.0000003000
+
+Insertion Sort:
+Elapsed time: 0.0000003000
+
+Selection Sort:
+Elapsed time: 0.0000099000
+
+Shell Sort:
+Elapsed time: 0.0000012000
+
+Merge Sort:
+Elapsed time: 0.0000585000
+
+Quick Sort:
+Elapsed time: 0.0000040000
+
+
+Medium array test:
+Bubble Sort:
+Elapsed time: 0.0000167000
+
+Insertion Sort:
+Elapsed time: 0.0000262000
+
+Selection Sort:
+Elapsed time: 0.0838200000
+
+Shell Sort:
+Elapsed time: 0.0002259000
+
+Merge Sort:
+Elapsed time: 0.0065782000
+
+Quick Sort:
+Elapsed time: 0.0004992000
+
+
+Large array test:
+Bubble Sort:
+Elapsed time: 0.0008418000
+
+Insertion Sort:
+Elapsed time: 0.0013128000
+
+Selection Sort:
+Elapsed time: 206.1481340000
+
+Shell Sort:
+Elapsed time: 0.0167119000
+
+Merge Sort:
+Elapsed time: 1.4304127000
+
+Quick Sort:
+Elapsed time: 0.0224977000
+
+WORST CASE DATA 100, 10K, 500K
+==============================
+Small array test:
+Bubble Sort:
+Elapsed time: 0.0000247000
+
+Insertion Sort:
+Elapsed time: 0.0000102000
+
+Selection Sort:
+Elapsed time: 0.0000171000
+
+Shell Sort:
+Elapsed time: 0.0000033000
+
+Merge Sort:
+Elapsed time: 0.0000574000
+
+Quick Sort:
+Elapsed time: 0.0000061000
+
+
+Medium array test:
+Bubble Sort:
+Elapsed time: 0.2667036000
+
+Insertion Sort:
+Elapsed time: 0.1065162000
+
+Selection Sort:
+Elapsed time: 0.1464605000
+
+Shell Sort:
+Elapsed time: 0.0006135000
+
+Merge Sort:
+Elapsed time: 0.0092209000
+
+Quick Sort:
+Elapsed time: 0.0004391000
+
+
+Large array test:
+Bubble Sort:
+Elapsed time: 614.3172865000
+
+Insertion Sort:
+Elapsed time: 249.8482032000
+
+Selection Sort:
+Elapsed time: 415.6892027000
+
+Shell Sort:
+Elapsed time: 0.0329878000
+
+Merge Sort:
+Elapsed time: 1.4095758000
+
+Quick Sort:
+Elapsed time: 0.0233698000
